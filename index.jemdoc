@@ -3,7 +3,7 @@
 = Binwu Zhu
 
 ~~~
-{}{img_left}{binwu.jpg}{150}{150}{Siting Liu}
+{}{img_left}{binwu.jpg}{150}{150}{Binwu Zhu}
 Binwu Zhu, Ph.D. \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
@@ -11,21 +11,28 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 ~~~
 
 == Biography
-I will attend [http://www.cse.cuhk.edu.hk CUHK] on 2020 Fall, as a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering] under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].
-Now, I major in Information Engineering and will receive my B.Eng. from [http://www.zju.edu.cn Zhejiang University (ZJU)] this summer.
+I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering] under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].
+Before, I received my B.Eng. from [http://www.zju.edu.cn Zhejiang University (ZJU)] in 2020.
 == Contact
-Email: zhubinwu@zju.edu.cn \n
+Email: bwzhu@cse.cuhk.edu.hk \n
 
 == Research Interest
-- Machine Learning
+- Machine Learning in EDA
+
+== Publication
+- \[C2\] Jianwang Zhai, Chen Bai, *Binwu Zhu*, Yici Cai, Qiang Zhou, Bei Yu, “McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 1–4, 2021.
+
+- \[C1\] *Binwu Zhu*, Ran Chen, Xinyun Zhang, Fan Yang, Xuan Zeng, Bei Yu, Martin D.F. Wong, “Hotspot Detection via Multi-task Learning and Transformer Encoder”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 1–4, 2021.
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
   from Oct 2020
-- B.S.  Information Engineering,
+- B.Eng.  Information Engineering,
   [http://www.zju.edu.cn Zhejiang University], Sept 2016 - June 2020
 
+
 == Awards
-- Provincial Scholarship, 2019
-- Zhejiang Daily & Alibaba New Media Scholarship, 2019
-- First-Class Scholarship for Outstanding Students, 2019
+- Full Postgraduate Studentship, 	CUHK, 	2020-2024
+- Provincial Scholarship, ZJU, 2019
+- Zhejiang Daily & Alibaba New Media Scholarship, ZJU, 2019
+- First-Class Scholarship for Outstanding Students, ZJU, 2019
