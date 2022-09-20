@@ -1,4 +1,4 @@
-# jemdoc: addcss{jemdoc.css}, showsource
+# jemdoc: addcss{myMiddle.css}, showsource
 # jemdoc: nofooter
 = Binwu Zhu
 
@@ -11,26 +11,35 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 ~~~
 
 == Biography
-I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering] under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].
+I am currently a Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering] under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].
 Before, I received my B.Eng. from [http://www.zju.edu.cn Zhejiang University (ZJU)] in 2020.
 == Contact
 Email: bwzhu@cse.cuhk.edu.hk \n
 
 == Research Interest
 - Machine Learning in EDA
+- Efficient EDA Algorithms
 
 == Publication
+=== Conference Papers
+- \[C4\] *Binwu Zhu*, Xinyun Zhang, Yibo Lin, Bei Yu, Martin Wong, “Efficient Design Rule Checking Script Generation via Key Information Extraction”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep. 12–13, 2022. *(Best Paper Candidate)*
+
 - \[C3\] Xinyun Zhang , *Binwu Zhu*, Xufeng Yao, Qi Sun, Ruiyu Li, Bei Yu, "Context-based contrastive learning for scene text recognition", AAAI Conference on Artificial Intelligence (AAAI), 2022.
 
 - \[C2\] Jianwang Zhai, Chen Bai, *Binwu Zhu*, Yici Cai, Qiang Zhou, Bei Yu, "McPAT-Calib: A Microarchitecture Power Modeling Framework for Modern CPUs", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 1-4, 2021.
 
 - \[C1\] *Binwu Zhu*, Ran Chen, Xinyun Zhang, Fan Yang, Xuan Zeng, Bei Yu, Martin D.F. Wong, "Hotspot Detection via Multi-task Learning and Transformer Encoder", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 1-4, 2021.
 
+=== Journal Papers
+- \[J2\] Jianwang Zhai, Chen Bai, *Binwu Zhu*, Yici Cai, Qiang Zhou, Bei Yu, “McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
+- \[J1\] Hao Geng, Tinghuan Chen, Yuzhe Ma, *Binwu Zhu*, Bei Yu, “PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
-  from Oct 2020
+  from Sept 2020
 - B.Eng.  Information Engineering,
-  [http://www.zju.edu.cn Zhejiang University], Sept 2016 - June 2020
+  [http://www.zju.edu.cn Zhejiang University], Sept 2016 - July 2020
 
 
 == Awards
