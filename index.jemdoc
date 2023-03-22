@@ -31,6 +31,8 @@ Email: bwzhu@cse.cuhk.edu.hk \n
 - \[C1\] *Binwu Zhu*, Ran Chen, Xinyun Zhang, Fan Yang, Xuan Zeng, Bei Yu, Martin D.F. Wong, "Hotspot Detection via Multi-task Learning and Transformer Encoder", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 1-4, 2021.
 
 === Journal Papers
+- \[J3\] *Binwu Zhu*, Xinyun Zhang, Yibo Lin, Bei Yu, Martin Wong, “DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES)
+
 - \[J2\] Jianwang Zhai, Chen Bai, *Binwu Zhu*, Yici Cai, Qiang Zhou, Bei Yu, “McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 
 - \[J1\] Hao Geng, Tinghuan Chen, Yuzhe Ma, *Binwu Zhu*, Bei Yu, “PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
