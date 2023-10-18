@@ -17,11 +17,12 @@ Before, I received my B.Eng. from [http://www.zju.edu.cn Zhejiang University (ZJ
 Email: bwzhu@cse.cuhk.edu.hk \n
 
 == Research Interest
-- Machine Learning in EDA
-- Efficient EDA Algorithms
+My research focuses on the combination of artificial intelligence (AI) and electronic design automation (EDA), especially in the design for manufacturing (DFM) domain. I aim to propose customized deep learning methodologies for chip design to reduce workload for human beings.
 
 == Publication
 === Conference Papers
+- \[C5\] Su Zheng, Haoyu Yang, *Binwu Zhu*, Bei Yu, Martin D.F. Wong, “LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing”, Neural Information Processing Systems (NeurIPS), New Orleans, Dec. 10–16, 2023.
+
 - \[C4\] *Binwu Zhu*, Xinyun Zhang, Yibo Lin, Bei Yu, Martin Wong, “Efficient Design Rule Checking Script Generation via Key Information Extraction”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep. 12–13, 2022. *(Best Paper Candidate)*
 
 - \[C3\] Xinyun Zhang , *Binwu Zhu*, Xufeng Yao, Qi Sun, Ruiyu Li, Bei Yu, "Context-based contrastive learning for scene text recognition", AAAI Conference on Artificial Intelligence (AAAI), 2022.
@@ -45,8 +46,17 @@ Email: bwzhu@cse.cuhk.edu.hk \n
 - B.Eng.  Information Engineering,
   [http://www.zju.edu.cn Zhejiang University], Sept 2016 - July 2020
 
+== Experience
+- Research Assistant, CUHK, Nov 2019 - May 2020
 
-== Awards
+== Teaching
+- Discrete Mathematics for Engineers (ENGG2440A)
+- Principles of Programming Languages (CSCI3180)
+- Embedded System Development and Applications (CENG4480)
+- Principles of Computer Game Software (CSCI4120)
+- Efficient Computing of Deep Neural Networks (CMSC5743)
+
+== Selected Awards
 - Best Paper Candidate, MLCAD, 2022
 - Full Postgraduate Studentship, 	CUHK, 	2020-2024
 - Provincial Scholarship, ZJU, 2019
