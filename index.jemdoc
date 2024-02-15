@@ -21,6 +21,10 @@ My research focuses on the combination of artificial intelligence (AI) and elect
 
 == Publication
 === Conference Papers
+- \[C7\] Xinyun Zhang\*, *Binwu Zhu*\*, Fangzhou Liu, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Disentangle, Align and Generalize: Learning A Timing Predictor from Different Technology Nodes”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024. (* represents equal contribution)
+
+- \[C6\] Xinyun Zhang, Su Zheng, Guojin Chen, *Binwu Zhu*, Hong Xu, Bei Yu, “Fracturing-aware Curvilinear ILT via Circular E-beam Mask Writer”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
+
 - \[C5\] Su Zheng, Haoyu Yang, *Binwu Zhu*, Bei Yu, Martin D.F. Wong, “LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing”, Neural Information Processing Systems (NeurIPS), New Orleans, Dec. 10–16, 2023.
 
 - \[C4\] *Binwu Zhu*, Xinyun Zhang, Yibo Lin, Bei Yu, Martin Wong, “Efficient Design Rule Checking Script Generation via Key Information Extraction”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep. 12–13, 2022. *(Best Paper Candidate)*
