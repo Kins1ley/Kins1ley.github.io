@@ -18,11 +18,13 @@ Email: zhubinwu0820@gmail.com \n
 My research focuses on the combination of artificial intelligence (AI) and electronic design automation (EDA), especially in the design for manufacturing (DFM) domain. I aim to propose customized deep learning methodologies for chip design to reduce workload for human beings.
 
 == Publication
+- Xinyun Zhang\*, *Binwu Zhu*\*, Fangzhou Liu, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Pre-Routing Timing Prediction Across Different Technology Nodes”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (* represents equal contribution)
+
+- *Binwu Zhu*, Su Zheng, Ziyang Yu, Guojin Chen, Yuzhe Ma, Fang Yang, Bei Yu, Martin Wong, “L2O-ILT: Learning to Optimize Inverse Lithography Techniques”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024
+
 - Xinyun Zhang\*, *Binwu Zhu*\*, Fangzhou Liu, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Disentangle, Align and Generalize: Learning A Timing Predictor from Different Technology Nodes”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024. (* represents equal contribution)
 
 - Xinyun Zhang, Su Zheng, Guojin Chen, *Binwu Zhu*, Hong Xu, Bei Yu, “Fracturing-aware Curvilinear ILT via Circular E-beam Mask Writer”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
-
-- *Binwu Zhu*, Su Zheng, Ziyang Yu, Guojin Chen, Yuzhe Ma, Fang Yang, Bei Yu, Martin Wong, “L2O-ILT: Learning to Optimize Inverse Lithography Techniques”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024
 
 - *Binwu Zhu*, Xinyun Zhang, Yibo Lin, Bei Yu, Martin Wong, “DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction”, ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
 
